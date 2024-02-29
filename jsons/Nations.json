@@ -2,7 +2,7 @@
 	{
 		"name": "Hesperium",
 		"leaderName": "Majorian",
-		"adjective": ["roman"],
+		"adjective": ["Roman"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		
@@ -26,12 +26,13 @@
 		
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
+   "favoredReligion": "Christianity",
 
 		"outerColor": [255,150,0],
 		"innerColor": [255,177,177],
    "uniqueName": "Foederati Conscription",
    "uniques": ["When defeating a [Barbarian] unit, earn [10] Gold and recruit it <with [100]% chance>", "When defeating a [Military] unit, earn [10] Gold and recruit it <with [100]% chance>", "Earn [50]% of killed [Military] unit's [Strength] as [Science]"],
-   "uniqueText": "Recruit a defeated enemy unit.",
+   "uniqueText": "Recruit a defeated enemy unit into foederati. Gain [Science] every killed unit.",
 		"cities": ["Ravenna","Rome","Mediolanum","Noviodunum","Syracuse","Carthago","Ariminum","Aquitania","Baetica",
 			"Dalmatia,","Etruria","Garamantes","Helvetii","Lusitania","Mauretania","Tingitana","Caesariensis","Noricum","Pannonia",
 			"Raetia","Regium Lepidum","Samnites","Samaritian","Suebians","Soissons","Verona","Vascones","Treviri","Sabini",
