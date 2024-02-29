@@ -1,0 +1,26 @@
+[ 
+    {
+        "name": "Magister Militum I",
+        "uniques": ["[+10] HP when healing"],
+	},
+    {
+        "name": "Magister Militum II",
+        "prerequisites": ["Magister Militum I"],
+        "uniques": ["[+50]% XP gain from combat"],
+	},
+    {
+        "name": "Magister Militum III",
+        "prerequisites": ["Magister Militum II"],
+        "uniques": ["Heals [85] damage if it kills a unit"],
+	},
+    {
+        "name": "Magister Militum IV",
+        "prerequisites": ["Magister Militum III"],
+        "uniques": ["All healing effects doubled"],
+	},
+    {
+        "name": "Magister Militum V",
+        "prerequisites": ["Magister Militum IV"],
+        "uniques": ["Can pass through impassable tiles"],
+    },	
+]

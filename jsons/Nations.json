@@ -1,0 +1,40 @@
+[
+	{
+		"name": "Hesperium",
+		"leaderName": "Majorian",
+		"adjective": ["roman"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Magnificent Emperor Majorian, beloved of Hesperium and of Rome, your people salute you! With your intelligence, you rose up from actress and courtesan to the rank of the most powerful general in the Western Roman Empire. In the late 461's AD, you helped your empire and restores its glory, promugalting numerous laws to improve status and treatment in the empire. You also made Ravenna the jewel of the Western Roman Empire with the restoration and construction of many aqueducts, bridges, and churches.",
+		"startIntroPart2": "Magneficent Emperor, the Hesperium Empire's magnificence is intact in all memories, and ready to be reborn as the new jewel of humankind. Will your new empire shine through the ages of history?",
+		
+		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"attacked": "You want to play? Very funny!",
+		"defeated": "The Roman has not yet lost, Barbarians.",
+		"introduction": "We're the great civilization of Rome.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [255,150,0],
+		"innerColor": [255,177,177],
+   "uniqueName": "Foederati Conscription",
+   "uniques": ["When defeating a [Barbarian] unit, earn [0] Gold and recruit it <with [100]% chance>", "When defeating a [Military] unit, earn [0] Gold and recruit it <with [100]% chance>", "Earn [50]% of killed [Military] unit's [Strength] as [Science]"],
+   "uniqueText": "Recruit a defeated enemy unit.",
+		"cities": ["Ravenna","Rome","Mediolanum","Noviodunum","Syracuse","Carthago","Ariminum","Aquitania","Baetica",
+			"Dalmatia,","Etruria","Garamantes","Helvetii","Lusitania","Mauretania","Tingitana","Caesariensis","Noricum","Pannonia",
+			"Raetia","Regium Lepidum","Samnites","Samaritian","Suebians","Soissons","Verona","Vascones","Treviri","Sabini",
+			"Belgica","Bononia","Brigantes","Britannia","Cyrene","Caledonia"]
+	}
+]

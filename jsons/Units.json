@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Magister Militum",
+		"unitType": "Melee",
+		"uniqueTo": "Hesperium",
+		"replaces": "Musketman",
+		"movement": 2,
+		"strength": 90,
+		"cost": 500,
+		"requiredTech": "Steel",
+		"requiredResource": "Iron",
+		"promotions": ["Magister Militum I", " Magister Militum II", "Magister Militum III", " Magister Militum IV", "Magister Militum V"]
+	}
+], 
