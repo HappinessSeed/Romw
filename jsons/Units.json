@@ -4,7 +4,7 @@
 		"unitType": "Melee",
 		"uniqueTo": "Hesperium",
 		"replaces": "Musketman",
-		"movement": 2,
+		"movement": 4,
 		"strength": 90,
 		"cost": 500,
 		"requiredTech": "Steel",
